@@ -2,7 +2,7 @@
 
 Ini adalah halaman landing sederhana untuk mempromosikan lagu NM, berisi link ke beberapa platform streaming seperti Spotify dan YouTube Music.
 
-🌐 Live di: [https://naturamagica.github.io/nm-smartlink/](https://naturamagica.github.io/nm-smartlink/)  
+🌐 Live di: [https://naturamagica.github.io/NM-Smartlink//](https://naturamagica.github.io/NM-Smartlink//)  
 
 
 ## Platform Tersedia:
